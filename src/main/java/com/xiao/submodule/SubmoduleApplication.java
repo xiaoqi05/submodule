@@ -10,5 +10,7 @@ public class SubmoduleApplication {
         SpringApplication.run(SubmoduleApplication.class, args);
     }
 
+
+
 }
 
